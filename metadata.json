@@ -1,0 +1,6 @@
+{
+  "name": "Rescue Swarm - AI Disaster Victim Search & Rescue Mission Control",
+  "description": "Autonomous multi-drone disaster response system with acoustic beamforming under debris, FLIR radiometric thermal detection, and 20ft seismic micro-vibration radar, priority triage matrix, multi-lingual AI command agent, and offline mesh synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
